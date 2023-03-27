@@ -1,0 +1,5 @@
+ideas:
+- secuencia de imágenes en base a un video que me describa profundamente.
+- puertas
+- espejos, que aparezca solo el celular
+- sacarle foto a todo lo que pueda y buscar un hilo conductor despues 
