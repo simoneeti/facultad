@@ -1,4 +1,4 @@
-## UNA ARTES MULTIMEDIALES
-# 1er AÑO
+# UNA ARTES MULTIMEDIALES
+## 1er año
 
 apuntes de claseeeee ejeejejjeeee
