@@ -2,6 +2,3 @@
 # 1er AÑO
 
 apuntes de claseeeee ejeejejjeeee
-
-
-Simón Vintrob
