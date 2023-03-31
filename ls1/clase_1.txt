@@ -1,0 +1,55 @@
+Técnicas de sonido digital - capítulo 1 a 1.5.5 inclusive
+
+
+sonido:
+        fuente sonora que produce vibración u oscilación 
+        -> medio elástico en que la perturbación se propague 
+        -> receptor que transforma estímulo en percepción.
+
+onda mecanica: 
+        - propagación de una perturbación en una propiedad de un medio (presión, densidad, etc)
+        - transporte de energía sin transporte de materia.
+
+onda sonora:
+        propagación de una perturbación de presión o densidad en un medio elástico
+
+fuente sonora:
+        cualquier objeto vibrante que pueda generar una onda sonora.
+        - es necesario entregarle energía para que comience a vibrar, generalmente a través de un mecanismo de excitación
+        - cuando comienza a vibrar genera una oscilación que produce una onda sonora.
+        - algunas tienen un resonador que amplifica las vibraciones al medio
+
+medio:
+        - gaseoso, líquido, sólido. el medio por excelencia para la propagación del sonido es el aire.
+
+Propagación de la onda sonora:
+        las moléculas de un medio gaseoso están en un reposo dinámico (movimiento caótico pero distribuidas homogéneamente)
+        el parlante se mueve rápidamente hacia adelante:
+        -> empuja las partículas de aire adyacentes a él sin alterar las más alejadas
+        -> aumenta la presión en la zona adyacente a él
+        -> la compresión genera una reacción en cadena (se empujan las partículas adyacentes a las partículas iniciales)
+        -> la perturbación se propaga por el aire en todas las direcciones
+        el parlante se mueve rápidamente hacia atrás:
+        -> genera una decompresión de las partículas del aire
+        -> las partículas vuelven a él
+
+Receptor:
+        -> recibe las ondas sonoras
+        -> el sistema perceptivo sonoro las convierte en impulsos eléctricos
+
+Movimiento oscilatorio simple:
+        - oscilación o movimiento en base a una posición de equilibrio. ejemplo es un péndulo.
+        - oscila repetitivamente en torno a su posición de equilibrio luego de recibir energía
+        - es periódico 
+        - va perdiendo energía hasta que se detiene.
+        ciclo:      c/u de las repeticiones
+        frecuencia: ciclos por segundo
+        elongación: desplazamiento del movimiento desde la posición de reposo
+        amplitud:   máxima elongación del movimiento
+
+Movimiento circular uniforme:
+        movimiento periódico cuya trayectoria es una circunferencia.
+
+Movimiento armónico simple:
+        proyección sobre un eje de un punto que describe un MCU
+
