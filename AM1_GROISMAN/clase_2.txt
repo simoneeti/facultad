@@ -1,0 +1,55 @@
+-- corrección de la primera entrega de antiselfie. 
+(https://drive.google.com/drive/folders/1zzS3U7oZCg4Tl6dnPR_zCBIi6-oHJI8x?usp=share_link)
+
+
+ajenos:
+        - no mucha literalidad
+        - contar algo!!
+        - primero dibujar, después sacar la foto
+        - pensar la temporalidad
+        - información en los planos
+
+propio:
+        - hacerlo con las herramientas que tengo (no puedo hacer mucho zoom xd)
+        - muy rebuscado
+        - contar algo!!!!!!! (agradecimiento, obsesión, ansiedad, amor, soledad, etc)
+        - bajar un cambio, idea menos compleja
+
+burch - praxis del cine:
+
+plano: una sola imagen capturada por la camara en un momento determinado. Se diferencia de la toma ya que la ultima es una grabacion de una secuencia de imagenes en movimiento.
+decoupage: guion tecnico. operación de descomponer un relato en planos y secuencias antes del rodaje. 
+un film es una sucesion de trozos de tiempo y trozos de espacio. 
+
+tipos de plano:
+        - general: amplio campo de visión. para establecer ubicacion
+        - medio: personajes cintura para arriba. para mostrar accion e interaccion entre ellos
+        - corto: rostro y hombros de un personaje. para enfatizar emociones y expresiones faciales
+        - primer plano: objeto o detalle específico. para resaltar su importancia o simbolismo.
+        - detalle: objeto o parte del cuerpo en primer plano. para resaltar su importancia o detalles
+        - subjetivo: lo que un personaje está viendo (no necesariamente un POV). para crear una conexión entre el espectador y el personaje.
+        - secuencia: se graba sin cortes aparentes. para crear sensacion de continuidad y fluidez.
+
+toma: grabación continua e ininterrumpida de un fragmento de la acción.
+
+raccord: tecnica para establecer la continuidad (o no) espacial y temporal en un film.
+tipos de raccord:
+        - posición: más común. se mantienen la posicion de objetos y personajes en el encuadre entre dos planos. para mantener continuidad espacial.
+        - mirada: cuando un personaje mira algo fuera del encuadre en un plano y se corta a otro plano que lo muestra. para mantener continuidad temporal y espacial.
+        - movimiento: para mantener la continuidad del movimiento.
+        - sonido: un personaje está hablando en un plano y se corta a otro plano en que se lo muestra escuchando algo. para mantener continuidad sonora.
+        - tema: se muestra un objeto en un plano y se corta a otro con un objeto similar. para mantener continuidad temática.
+
+
+5 tipos de relaciones temporales entre plano A y B:
+        - raccord directo: prosigue la acción en distintos planos pero en lugar y tiempo exactamente posterior.
+        - elipsis definida: prosigue la acción un tiempo más o menos determinado después
+        - elipsis indefinida: puede pasar x cantidad de tiempo. el espectador necesita ayuda para entender cuánto.
+        - flashback/forward
+
+3 tipos de relaciones espaciales entre plano A y B:
+        - raccord directo: vemos en el plano B un mismo fragmento de espacio que vimos en el A
+        - elipsis definida: el espacio del plano B está claramente próximo al del plano A
+        - elipsis indefinida: discontinuidad total. plano B no puede situarse espacialmente en relacion al plano A
+
+
