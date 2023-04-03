@@ -1,0 +1,63 @@
+SEMIOLOGÍA, SEMIÓTICA, SIGNO 
+Lección 1
+Saussure
+
+a) la linguística y su objeto:
+
+lenguaje: capacidad, facultad humana de simbolizar. fenómeno fisico, mental, individual y social.
+lengua: idioma
+habla: uso que cada individuo le da a cada lengua.
+la lingüística estructural saussureana busca establecer leyes claras, pensando los códigos de la lengua como un sistema.
+
+
+b) la lingüística deberá formar parte de la semiología:
+
+Saussure quiere crear una ciencia nueva, la semiología, que formará parte de la lingüística. si la lengua es la creación colectiva de un sistema de signos que sirven para la comunicación verbal, se precisa de una disciplina cuyo objeto sean todos los sistemas de signos; esta ciencia debería establecer y delimitar semejanzas y diferencias entre la lengua y los otros sistemas.
+
+
+c) características y principios del signo lingüístico:
+
+A Saussure sólo le interesan los signos lingüísticos. Un signo lingüístico es la relación entre un concepto (significado) y un sonido (significante) asociado a ese concepto. El significado no está presente sino que funciona por una relación de reenvío: es aquello que el significante evoca. Equivalencia entre significado y significante.
+El signo es arbitrario y lineal. Arbitrario porque no hay relación entre significado y significante; la palabra perro es perro porque sí. Lineal porque el sonido se despliega en el tiempo, no se pueden pronunciar dos palabras al mismo tiempo. El signo es lineal debido a su temporalidad. 
+Los signos son tanto inmutables como mutables porque, si bien no podemos cambiar las normas sociales que definen a una palabra, con el tiempo va cambiando sola. La lengua se transforma sin que los hablantes puedan transformarla.
+
+
+d) relaciones paradigmáticas y sintagmáticas:
+
+Paradigmática porque una palabra está relacionada paradigmáticamente con otras no presentes en el sintagma (playa: mar, corriente, marea, arena). Sintagmática porque las palabras se relacionan con las que vienen antes y después en el sintagma (Carlos es fachero: "fachero" y "Carlos" se relacionan con "es").
+
+
+Preguntas:
+
+1) Enumere y explique las características del signo lingüístico:
+El signo es arbitrario, lineal, inmutable y mutable. Arbitrario debido a que el significante que se le atribuye a un significado no tiene razón alguna de ser; es decir que la morfología de un significante no guarda relación con su significado. La linealidad es consecuencia directa de la naturaleza auditiva de los significantes: las cadenas fónicas se despliegan en el tiempo, es imposible pronunciar dos palabras a la vez; el signo es lineal debido a su temporalidad. También es tanto inmutable como mutable, ya que si bien no se pueden cambiar las normas sociales que definen a una palabra, históricamente se puede observar que las lenguas van cambiando con el tiempo. La lengua se transforma sin que sus hablantes puedan transformarla.
+
+
+2) ¿Qué son las relaciones sintagmáticas y las paradigmáticas?
+Las relaciones sintagmáticas son las relaciones que hay entre palabras en un sintagma. Una palabra guarda estrecha relación con las que la rodean: si yo digo "Carlos es fachero", "Carlos" y "fachero" están articuladas directamente por "es" y el significado de una y otra depende de las demás; por eso se dice que es una relación "en presencia". Por otro lado, las relaciones paradigmáticas tienen que ver con que hay palabras que mentalmente podemos relacionar con otras no presentes debido a que guardan significados que asociamos con las primeras. Por ejemplo, "playa" se relaciona con "mar", "arena", "sol". También podemos crear una asociación debido a elementos en común; ejemplo de esto sería el conjunto de verbos del español, o los sustantivos. Al no estar presentes las palabras relacionadas, se trata de una relación "en ausencia".
+
+
+
+Lección 2
+Peirce
+
+Signo: accion recíproca entre algo (representamen), lo que ese algo representa (objeto)y un pensamiento interpretante, que puede ser también una sensación o una conducta que se da como respuesta a la relación R-O. Para que haya interpretación es necesario que haya conocimientos anteriores (colaterales), si no no hay signo. 
+interpretante =/= intérprete.
+interpretante: representamen creado en la cabeza de la persona que ve un representamen. Al analizar algo, alguien se genera una imagen mental. sera por eso? 
+cielo oscuro (r) -> nosotros (interpretante) -> se viene la tormenta (o).
+los signos son la base de la conducta: conocimiento y acción están intimamente ligados. el signo no representa el objeto en su totalidad, sino siempre en relación a un fundamento. El objeto nunca puede ser abarcado totalmente y esa es la condición para la aparición ilimitada de nuevos signos: El I se transforma en R de el mismo O para otro I.
+Una canción de un disco que cuenta una historia de dos niños ->
+Objeto: la historia de los niños
+Representamen: la canción que relata la historia
+Interpretante: la versión grabada, que se transforma en representamente de ese mismo objeto para un interpretante 2
+Interpretante 2: la canción tocada en una reunión, que inspira a una chica a grabar su versión y subirla a youtube generando un interpretante 3, que será comentado (interpretante 4). Asi ad infinitum.
+A diferencia de la concepción semiológica en que los signos están convencionalizados socialmente en sistemas o códigos, en la semiótica R, O e I son relativos a la mirada que se aplique a ellos. La historia de los niños puede ser representamen de un objeto que es la situación de calle de las infancias en Argentina y la canción un posible interpretante.
+
+Una noticia en Infobae (r) da cuenta de la situación de viajeros varados en Punta Cana (o), una radio la retoma (i, r), la escucho y la comento con una vecina (i), a la vez que salen unos memes irónicos (r) sobre estos “nuevos refugiados otrora privilegiados” (o) que son contestados airadamente mediante comentarios por redes sociales (i), que son a su vez retomados en el diálogo cotidiano y por otra radio que... Ad infinitum.
+
+2da tricotomía: ¿cómo algo está en lugar de otra cosa?
+respuesta: un representamen puede 
+- parecerse a su objeto (imágenes) o mantener una correspondencia de partes con él (diagramas). En estos casos se trata de íconos. Metáforas son íconos (flores -> perfume). No precisan de la existencia de sus objetos. 
+- estar afectado por su objeto
+- guardar una relación existencial con él (índice). Precisan la existencia del objeto. Ejemplo: alarma -> peligro, humo -> fuego, señal de tránsito -> curva, síntoma -> enfermedad. Señalan que hay, hubo o habrá un objeto en contiguidad a ellos.
+- tener una relación basada en una mera convención con su objeto (símbolo). A diferencia de los índices, remiten a algo general. Ejemplos: el concepto de bandera. A diferencia del signo lingüístico, algunos no son arbitrarios, como la cruz cristiana
