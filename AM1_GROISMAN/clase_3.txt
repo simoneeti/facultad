@@ -16,3 +16,17 @@ continuidad tematica: un mismo objeto/un mismo tema
         - lara --> lara en la camita
         - luz de noche --> si se puede la luna, desde la terraza
 
+repensado:
+        - cama deshecha ✓
+        - planta de tomate ✓
+								- mate ✓
+        - cosas preparadas para salir ✓
+        - pesas --> rack de pesas vista desde arriba? / cambio por subte?
+        - comida --> you do you boo ✓
+        - amigos --> birra, papas, gente vestida de noche / cambio por código?
+        - familia --> cambio por vasos ✓
+        - lara --> lara en la camita ✓
+        - luz de noche ✓
+
+
+2048x2048
