@@ -17,16 +17,23 @@ continuidad tematica: un mismo objeto/un mismo tema
         - luz de noche --> si se puede la luna, desde la terraza
 
 repensado:
-        - cama deshecha ✓
+        - amanecer ✓
+								- cama deshecha ✓
         - planta de tomate ✓
 								- mate ✓
         - cosas preparadas para salir ✓
-        - pesas --> rack de pesas vista desde arriba? / cambio por subte?
         - comida --> you do you boo ✓
-        - amigos --> birra, papas, gente vestida de noche / cambio por código?
-        - familia --> cambio por vasos ✓
-        - lara --> lara en la camita ✓
+        - luis ✓
+        - vasos ✓
         - luz de noche ✓
+        - lara en la camita ✓
+
+Arte y tecnología: una frontera que se desmorona (Xavier Berenguer):
+
+Resumen: Siglos atrás, entre la práctica artística y la práctica técnica no había distinciones.
+A partir de Newton, sin embargo, se establece una separación entre ellas, que se agudiza durante el Romanticismo, y que acaba consolidando la existencia de "dos culturas" sin a penas conexiones. Durante el siglo XX, ha habido una serie de autores y de obras, entre la expresión y la técnica, que han contribuido a la superación de esta dualidad. Algunos miembros de las vanguardias, ciertas experiencias conjuntas de creadores y técnicos, durante los años sesenta, y, en general, la emergencia de la nuevas tecnologías audiovisuales y de comunicación, han ido minorándola. Actualmente, las aplicaciones creativas de los ordenadores la reducen mucho más, hasta el punto de hacerla desaparecer, y abren un horizonte artístico en el que conviven, necesariamente, estos dos enfoques.
 
 
-2048x2048
+Snow (1964): dos comunidades, científicos y artistas e intelectuales, que perdieron su raíz común y capacidad de comunicarse. Debido al método científico, científico: realidad, lógica; artista: imaginación, emoción.
+Este argumento hace unas décadas antes que había perdido validez ya que la ciencia necesita consideraciones morales (ej. ingeniería genética), y también aparece la necesidad de flexibilizar la racionalidad (ej. cosmología). Ciencia invade terrenos reservados a la otra cultura.
+
