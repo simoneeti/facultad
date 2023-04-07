@@ -1,0 +1,33 @@
+punto, linea y plano tienen diversos significados.
+pictórica y gráficamente, son acciones materiales: el punto material es consecuencia de la punción del lápiz sobre la superficie del plano base.
+también se caracterizan en relacion al comportamiento de la mirada sobre ellos: punto visual como lugar o dirección de la mirada. linea como movimiento o recorrido del ojo.
+elementos visibles son aquellos cuya dimensión es despreciable (punto), 
+o aquellos que en una direccion una dimension es notablemente mayor a la otra (linea).
+Tambien puedo generar elementos geometricos como resultado de operaciones abstractas sobre los tipos anteriores. 
+O elementos visuales, generados por lugares, desplazamientos o ambitos de la mirada. Estos puntos o lineas estructuran, constituyen, organizan el plano. 
+Un elemento puede aparecer en el plano en todos los sentidos descritos. 
+
+Plano base: superficie material llamada a recibir el contenido de la obra. Limitado por dos lineas hoirzontales y 2 vertticales y por tanto adquiere una entidad independiente. En el PB tenemos 4 vertices y 4 lados, y diagonales, centro, medianas y puntos medios: elementos visuales. Estas lineas inmateriales sirvven de apoyo o soporte de las formas. Trazar las lineas (materialmente o no), genera tanto la division del espacio como la asociacion de esa operacion con la genracion de estabilidad en la compsicion. 
+
+Puntos visuales: tension ->
+
+Puntos (mat o no) generan un centro de atraccion para la mirada. 
+Si trazas una linea entre dos, se genera la sensacion de que hay una fuerza que puja por estirar la linea (como dos personas tirando en direccion opuesta a una soga). 
+Esos dos puntos son entidades inseparables. En el caso de varias "fuerzas", si son iguales, se traduce en un equilibrio o estabilidad.
+En el RB el centro tiene total estabilidad, ya que es un punto tensionado en igual medida desde cualquiera de cualquiera de todos los otros pares de puntos.
+Cualquier otro punto generara una tension visual. 
+Se entiende como punto de tension aquellos puntos visibles sobre los que otros puntos generan fuerzas significativas.
+A veces pueden ser menos aparentes, porque:
+		1- la mitada se detiene en el recorrido entre dos puntos mas que en el PT. en ese caso el acento esta puesto en la relacion entre dos PTs
+		2- se explicita la subdivision del RB en otros planos. En ese caso son mas significativos los planos que los puntos. Composiciones mas estables
+
+Lineas visuales: direcciones ->
+
+si trabajamos con dos o mas PTs, la relacion de fuerzaas entre ellos puede gfenerar estabilidad. (no dice nada sobre las direcciones)
+el espacio visual excede el plano base.
+
+Plano base: proyecciones ->
+si hacemos circulos en el plano base pueden aparecer cuadrados.
+
+PB: proporciones ->
+altura:anchura
