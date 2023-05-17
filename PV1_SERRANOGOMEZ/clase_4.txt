@@ -1,0 +1,16 @@
+Correcciones TP collage
+
+recomendaciones:
+		- Tener una paleta de materiales (recortes)
+		- Probar con texturas/direcciones internas de las figuras (no es necesario pero suma).
+		- Puedo usar el grosor de las líneas de los materiales como oscuridad/claridad
+		- Fondo puede ser papel arrugado o sucio
+		- Muchas imágenes/materiales. Unidades más chiquitas
+		- Abrazar lo abstracto
+		- Para los lugares a donde se van los ojos puedo usar espirales
+
+lineamientos generales:
+		- No dejar formas de cuerpos/objetos enteros, ya que puedo generar lecturas semánticas
+		- Mantener entre la foto y el collage más o menos los mismos contrastes, zonas de luz/oscuridad y a dónde se van los ojos
+		- No tan dibujo
+		- No poner mucha info en los lugares con claridad/fondos, pero que no queden blancos. 
