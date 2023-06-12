@@ -1,13 +1,14 @@
 AM: sacar 10 fotos 
 
-HSCA:
-        Documental "Historia culturas precolombinas"
-	      Dinámicas imperiales en Egipto,			Bernal, "Formación y desarrollo de Mesoamerica"
-	      Mesopotamia, Mesoamérica y 			Conrad y De Marest, Religión e Imperio  (se menciona en clase)
-	      América Andina			Jorge Luis Borges, "La casa de Asterión" (opcional)
-	      Orígenes de las civilizaciones egeas			
-(más o menos está)
+PV: darle color a la imagen de mesa vaso botella
 
-SG: leer peirce (ya lo hice pero releer)
+HSCA: 
 
-PV: rehacer collage. sacar fotos de botella, vaso y mesa.
+Bauza, H., "Apuntes para leer a Homero" y "Tragedia griega", del libro Voces y Visiones
+Poemas homéricos y oralidad. 			Eurípides, Las Bacantes
+Democracia, Filosofía y Tragedia			Fragmento de La Odisea (se menciona en clase)
+Alejandro Magno. Reinos Helenísticos			Jorge Luis Borges, "El Hacedor" (opcional)
+
+SG: nada
+LS: nada
+

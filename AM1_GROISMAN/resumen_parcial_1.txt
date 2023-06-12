@@ -1,0 +1,112 @@
+BURCH: PRAXIS DEL CINE
+
+Burch explora cómo los cineastas construyen y organizan el espacio-tiempo en una película a
+través de técnicas como el plano, la toma, el raccord y el decoupage.
+Al comprender estos elementos y cómo se utilizan en la práctica del cine, podemos apreciar
+mejor cómo se construye la narrativa visual y cómo la relación entre el espacio y el tiempo
+puede afectar la interpretación del espectador.
+
+plano: una sola imagen capturada por la camara en un momento determinado. Se diferencia de la toma ya que la ultima es una grabacion de una secuencia de imagenes en movimiento.
+decoupage: guion tecnico. operación de descomponer un relato en planos y secuencias antes del rodaje. 
+un film es una sucesion de trozos de tiempo y trozos de espacio. mas o menos un storyboard
+
+tipos de plano:
+        - general: amplio campo de visión. para establecer ubicacion
+        - medio: personajes cintura para arriba. para mostrar accion e interaccion entre ellos
+        - corto: rostro y hombros de un personaje. para enfatizar emociones y expresiones faciales
+        - primer plano: objeto o detalle específico. para resaltar su importancia o simbolismo.
+        - detalle: objeto o parte del cuerpo en primer plano. para resaltar su importancia o detalles
+        - subjetivo: lo que un personaje está viendo (no necesariamente un POV). para crear una conexión entre el espectador y el personaje.
+        - secuencia: se graba sin cortes aparentes. para crear sensacion de continuidad y fluidez.
+
+toma: grabación continua e ininterrumpida de un fragmento de la acción.
+
+raccord: tecnica para establecer la continuidad (o no) espacial y temporal en un film.
+tipos de raccord:
+        - posición: más común. se mantienen la posicion de objetos y personajes en el encuadre entre dos planos. para mantener continuidad espacial.
+        - mirada: cuando un personaje mira algo fuera del encuadre en un plano y se corta a otro plano que lo muestra. para mantener continuidad temporal y espacial.
+        - movimiento: para mantener la continuidad del movimiento.
+        - sonido: un personaje está hablando en un plano y se corta a otro plano en que se lo muestra escuchando algo. para mantener continuidad sonora.
+        - tema: se muestra un objeto en un plano y se corta a otro con un objeto similar. para mantener continuidad temática.
+
+
+5 tipos de relaciones temporales entre plano A y B:
+        - raccord directo: prosigue la acción en distintos planos pero en lugar y tiempo exactamente posterior.
+        - elipsis definida: prosigue la acción un tiempo más o menos determinado después
+        - elipsis indefinida: puede pasar x cantidad de tiempo. el espectador necesita ayuda para entender cuánto.
+        - flashback/forward
+
+3 tipos de relaciones espaciales entre plano A y B:
+        - raccord directo: vemos en el plano B un mismo fragmento de espacio que vimos en el A
+        - elipsis definida: el espacio del plano B está claramente próximo al del plano A
+        - elipsis indefinida: discontinuidad total. plano B no puede situarse espacialmente en relacion al plano A
+
+------
+
+BERENGUER: Arte y Tecnología
+
+
+Resumen: Siglos atrás, entre la práctica artística y la práctica técnica no había distinciones.
+A partir de Newton, sin embargo, se establece una separación entre ellas, que se agudiza durante el Romanticismo, y que acaba consolidando la existencia de "dos culturas" sin apenas conexiones. 
+Durante el siglo XX, ha habido una serie de autores y de obras, entre la expresión y la técnica, que han contribuido a la superación de esta dualidad. Algunos miembros de las vanguardias, ciertas experiencias conjuntas de creadores y técnicos, durante los años sesenta, y, en general, la emergencia de la nuevas tecnologías audiovisuales y de comunicación, han ido minorándola. 
+Actualmente, las aplicaciones creativas de los ordenadores la reducen mucho más, hasta el punto de hacerla desaparecer, y abren un horizonte artístico en el que conviven, necesariamente, estos dos enfoques.
+
+Snow (1964): dos comunidades, científicos y artistas e intelectuales, que perdieron su raíz común y capacidad de comunicarse. método cientifico sienta las bases de que la ciencia es realidad, lógica y el arte es imaginación, emoción. La ciencia adopta el Romanticismo.
+Este argumento hace unas décadas antes que había perdido validez ya que la ciencia necesita consideraciones morales (ej. ingeniería genética), y también aparece la necesidad de flexibilizar la racionalidad (ej. cosmología). Ciencia invade terrenos reservados a la otra cultura, el arte por otro lado es menos abierto y vanguardista. Crisis del arte relacionada con los soportes tecnológicos; aparte, el vigor de la ciencia diluye la frontera entre ambas culturas. arte deja de tener una utilidad social.
+
+historia:
+durante la antiguedad no habia separación, era todo techné. Por ejemplo, da vinci. Desde el punto de vista instrumental, nunca hubo una separación total. Todo culpa de Newton que dispara la revolución industrial.
+En el siglo XIX la ciencia empieza a mostrar los dientes de la destrucción, por tanto el artista se repliega. "el artista y la maquina son incompatibles" y "el cientifico y la subjetividad son incompatibles" dominan las relaciones entre las comunidades durante el siglo XIX y parte del XX.
+Otros plantearon una visión alternativa, como los futuristas que buscaban nuevas formas de expresión apoyandose en el uso de la tecnología, y a veces utilizando las maquinas como obra en si: "El automóvil es más bello que La Victoria de Samotracia". Otras vanguardias son el dadá (duchamp, ernst, man ray) y los constructivistas que defendian el uso de nuevos materiales, metodos y concepciones del arte (tatlin: el arte ha muerto bla bla bla).
+Tambien la bauhaus (tradicion historica, metodos artesanales, realidad viva, util y cotidiana, nuevs tecnologias, trabajo en equipo, diseño industrial).
+En eeuu, tecnoartistas. Arte: objeto de consumo. Musica electronica. Protagonismo del técnico. Television, videoartistas. Ordenador. Ian Paluka en 1983 dice que la barrera que los separa se ha derrumbado. Realidad virtual, protesis de la mente.
+
+
+------
+
+MUNARI: método proyectual
+
+Plantea un método para sistematizar la resolución de probkenas en base a un análisis holístico del objeto de construcción.
+Aristóteles plantea la idea de que debe existir un método.
+Descartes define método como reglas ciertas y fáciles para a) no confundirse y b) no trabajar al pedo.
+Reglas del método cartesiano:
+	1 - evidencia   : no admitir jamás como verdadero cosa alguna sin conocer con evidencia que lo era.
+	2 - análisis    : dividir cada una de las dificultades en tantas partes como fuera posible.
+	3 - síntesis    : ordenar los pensamientos de menor a mayor dificultad.
+	4 - comprobación: revisar todo muy bien.
+
+Metodología proyectual
+Serie de operaciones dispuestas en un orden lógico, con la finalidad de obtener un máximo resultado con mínimo esfuerzo.
+Problema: algo que tiene solución. De hecho, en el problema están todos los elementos para solucionarlo.
+Pasos:
+	1 - definición del problema: definir los límites de movimiento
+	2 - descomponer el problema en subproblemas. conciliar las distintas soluciones a subproblemas con el proyecto global. Solución general depende de la coordinación creativa de las soluciones.
+	3 - recopilación de datos. investigación
+	4 - análisis de datos. Orientación hacia distintos materiales, tecnologías, costos.
+	5 - creatividad: reemplaza a la idea intuitiva, que puede proponer soluciones irrealizables. la creatividad se mantiene dentro de los límites del problema derivado del análisis de los datos y los distintos subproblemas.
+	6 - materiales/tecnología: inventario de materiales a disposición
+	7 - experimentación: permite descubrir nuevos usos de un material o instrumento.
+	8 - modelos: muestras, pruebas, información derivados de la experimentación.
+	9 - verificación de los modelos frente a un grupo de usuarios (feedback) (Efectividad: La medida en que los usuarios pueden alcanzar su meta. Eficiencia: Mide los recursos usados para realizar la tarea.Satisfacción: Mide la reacción afectiva de los usuarios.)
+
+------
+
+BONSIEPPE: Del objeto a la interfase
+
+Se opone a la visión del diseño industrial como ornamento ("como un peluquero") ("containers para las estructuras técnicas de los ingenieros"). propone el esquema ontológico: usuario, tarea, artefacto. cómo se conectan tres elementos tan heterogéneos? la interfase: espacio en el que se articulan las interacciones entre ellos. este es el ámbito central al que debe orientarse el interes del diseñador ya que transforma los objetos en productos.
+Critica la sociedad de consumo y la alienacion producida por la acumulación de mercaderias, pone sus esperanzas en una nueva cultura del producto; un mundo de consumo pero no consumismo. Lo que mas se acerco fue la URSS pero el capitalismo se lo llevó puesto, culpa también (segun el) de pifies en el desarrollo del diseño industrial (promovido por el estado) dentro de empresas, en el cual se priorizó la cantidad, y la proyectación y la innovación quedaron rezagados.
+Productos creados para los mercados del primer mundo.
+Formula siete características del diseño:
+	- se puede manifestar en todos los campos de la actividad humana
+	- está orientado hacia el futuro
+	- hace referencia a la innovación, trae al mundo algo nuevo
+	- esta referido al cuerpo y espacio
+	- apunta a la acción eficaz
+	- linguisticamente esta anclado en el ambito de los juicios
+	- se dirige hacia la interaccion entre el usuario y el artefacto
+El dominio del diseño es el dominio de la interfase.
+Análisis del objeto (Funcionalidad, Manejabilidad, Color, Forma, Materiales / Constructibilidad)
+Marco Vitruvio (Firmitas, Utilitas, Venustas)
+Coherencia formal: módulos
+Yo, en lo personal, prefiero despojar a los objetos comunes de su uso corriente. Es menos peligroso, más honesto e infinitamente más divertido! Mis objetos, al contrario de los aparatos que nuestra sociedad deconsumo genera, son perfectamente inútiles".
+Jacques Carelman
