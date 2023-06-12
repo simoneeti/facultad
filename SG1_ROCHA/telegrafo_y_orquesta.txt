@@ -1,0 +1,30 @@
+comunicacion: primero, "compartir", "comunion", "comulgar", "transmitir", "participar". con la innovación tecnológica (caminos, carreteras, tren) gana mucha fuerza el significado de transmitir. 
+
+Wiener: cibernética. feedback. proceso circular.
+Shannon: teoria matematica de la comunicacion. telefonos bell. eficientización de la transmision de un mensaje de punto A a punto B. 
+
+fuente ->
+emisor ->
+señal (+ ruido) ->
+receptor ->
+destino
+
+
+50s:
+Bateson (psiquiatria)
+Birdwhistell, Hall (antropologia) 
+Goffman -> distintos codigos
+
+60 y 70s:
+universidad invisible: Don Jackson, Paul Watzlawick, Stuart Sigman, Janet Beavin, Birdwhistell
+
+la existencia de «codigos» del comportamiento personal e interpersonal, regularian su apropiacion en el contexto y, por si mismo, su significacion. Todo hombre viviria necesariamente (si bien de manera inconsciente) en y por los codigos, ya que todo comportamiento supone su uso.
+comunicacion -> toda la utilización de esos códigos 
+contraposición al modelo telegráfico de la comunicacion que la plantea como 
+
+emisor --> 
+contexto | mensaje | contacto | codigo --> 
+destinatario
+
+por tanto, no es posible dejar de comunicarse. la comunicacion incluye una cantidad enorme de reglas que todos ignoramos pero respetamos (la "gramática" de la comunicacion segun Watzlawick y Weakland) (aprendemos inconscientemente), es un proceso social permanente con múltiples aristas (un "todo" integrado; "hablar de comunicacion no verbal tiene tanto sentido como hablar de fisiologia no cardiaca.")
+Análisis contextual (los mensajes no tienen un significado intrinseco), contraposición a Shannon. Relacionado con la cibernética de Wiener y la teoria general de los sistemas.
