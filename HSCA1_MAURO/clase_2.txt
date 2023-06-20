@@ -31,10 +31,8 @@ dialectica del culturalismo:
         - fundamentalismo cultural al igual que el racismo distingue y jerarquiza seres y grupos
         (stolcke: una retórica de exclusión que exalta la identidad nacional fundada en el 
         exclusivismo cultural). cosificación de la cultura. cultura = nacionalidad.
-        - stolcke: “la opinión ciudadana europea culpa cada vez más a los inmigrantes, que no tienen ‘nuestra’ moral y ‘nuestros’ valores culturales, de todas las desgracias socioeconómicas producto de la recesión y de los reajustes capitalistas. [...] En otras palabras, el ‘problema’ no somos ‘nosotros’, sino ‘ellos’. ‘Nosotros’ simbolizamos la buena vida que ‘ellos’ amenazan con socavar, y
-esto se debe a que ‘ellos’ son extranjeros y culturalmente ‘diferentes’”
-        - Este vínculo entre cultura y economía, señalado por Stolcke, implica que es cada vez más común que aparezca un discurso culturalista precisamente allí donde existen malestares vinculados a
-los intereses.
+        - stolcke: “la opinión ciudadana europea culpa cada vez más a los inmigrantes, que no tienen ‘nuestra’ moral y ‘nuestros’ valores culturales, de todas las desgracias socioeconómicas producto de la recesión y de los reajustes capitalistas. [...] En otras palabras, el ‘problema’ no somos ‘nosotros’, sino ‘ellos’. ‘Nosotros’ simbolizamos la buena vida que ‘ellos’ amenazan con socavar, y esto se debe a que ‘ellos’ son extranjeros y culturalmente ‘diferentes’”
+        - Este vínculo entre cultura y economía, señalado por Stolcke, implica que es cada vez más común que aparezca un discurso culturalista precisamente allí donde existen malestares vinculados a los intereses.
         - conclusion: los grupos deben mantenerse separados o se pudre todo.
 
 documental venecia:
@@ -47,6 +45,8 @@ Introducción "la cultura occidental" romero:
         en cierto territorio (europa). se desarrollo solo alli y acentuo las diferencias
         entre ella y las culturas vecinas, hasta que en un momento se empieza a expandir con
         tanto exito que parece volverse universal (empezando con el imperio romano).
+	- catequesis religiosa, penetracion economica. carga del hombre blanco. cultura universal. 
+	- nace en la edad media con los legados romano, hebreo-cristiano y germano. 
         - imperio romano es occidente absolutamente romanizado y absorbido vs oriente
         con poca influencia romana y bastante del oriente clasico y griega. se fue acentuando
         la diferencia con la difusion del Cristianismo. los germanos se garcharon a occidente
