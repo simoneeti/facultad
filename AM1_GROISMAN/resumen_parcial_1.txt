@@ -110,3 +110,15 @@ Marco Vitruvio (Firmitas, Utilitas, Venustas)
 Coherencia formal: módulos
 Yo, en lo personal, prefiero despojar a los objetos comunes de su uso corriente. Es menos peligroso, más honesto e infinitamente más divertido! Mis objetos, al contrario de los aparatos que nuestra sociedad deconsumo genera, son perfectamente inútiles".
 Jacques Carelman
+
+-------
+
+MANOVICH: NUEVOS MEDIOS
+Manovich argumenta que los medios digitales representan una evolución significativa en
+comparación con los medios tradicionales, como la fotografía, el cine o la televisión. 
+5 principios:
+	- representacion numerica
+	- modularidad
+	- automatizacion
+	- variabilidad
+	- transcodificacion
