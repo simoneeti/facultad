@@ -5,6 +5,8 @@ class RotatedRectangle {
     this.width = width;
     this.height = height;
     this.angle = angle;
+    this._ID = parseInt(Math.random() * 10000).toString();
+    this.birth = millis();
   }
 
   // Check if this rotated rectangle intersects with another rotated rectangle
@@ -109,11 +111,23 @@ class RotatedRectangle {
   }
 }
 class Nota extends RotatedRectangle {
-  constructor(angle, note, color) {
+  constructor(angle, note, esPar) {
     super(innerWidth / 2, innerHeight, 60, 15, angle);
     this.note = note;
-    this.color = color;
-    this.velocity = createVector(cos(this.angle), sin(this.angle));
+    this.color = esPar ? "lightblue" : "lightgreen";
+    this.speed = 1;
+    this.esPar = esPar;
+
+    this.velocity = createVector(
+      cos(this.angle) * this.speed,
+      sin(this.angle) * this.speed
+    );
+
+    this.life = 3; // segundos de sonido
+    this.lastCollided;
+    this.errThreshold = 100; // ms
+    this.sounds = getChannel();
+    this.sounds.play(this.life);
   }
   tick() {
     if (this.isHolding) {
@@ -125,28 +139,45 @@ class Nota extends RotatedRectangle {
       this.y += this.velocity.y;
     }
     // this.drawVertices();
+
     this.checkCollision();
+    this.checkIsInScreen();
     this.draw();
-    this.playSounds();
   }
-  playSounds() {}
+  kill() {
+    this.sounds.kill();
+    killObject(this);
+  }
+
+  checkIsInScreen() {
+    const isInScreen =
+      this.x > 0 && this.x < innerWidth && this.y > 0 && this.y < innerHeight;
+    if (!isInScreen) {
+      this.kill();
+    }
+  }
+
   checkCollision() {
     let collides = false;
     for (let o of obstacles) {
       const result = this.intersects(o);
       if (result.intersects) {
-        sounds.drop.play();
+        if (
+          this.lastCollided &&
+          millis() - this.lastCollided < this.errThreshold
+        ) {
+          this.kill();
+        }
+        this.lastCollided = millis();
         collides = true;
         const collisionNormal = result.axis;
 
-        // Calculate the reflection vector
         const dotProduct = this.velocity.dot(collisionNormal);
         const reflection = p5.Vector.sub(
           this.velocity,
           p5.Vector.mult(collisionNormal, 2 * dotProduct)
         );
 
-        // Set this reflection vector as the new velocity
         this.velocity = reflection;
         this.angle = atan2(this.velocity.y, this.velocity.x);
         break;
@@ -154,17 +185,18 @@ class Nota extends RotatedRectangle {
     }
     if (collides) {
       this.color = "green";
-    } else {
-      this.color = "white";
+      this.sounds.bounce(this.life);
+      // this.sounds.bounce();
     }
   }
   draw() {
     push();
     translate(this.x, this.y);
     rotate(this.angle);
+    noStroke();
     fill(this.color);
-    rectMode(CENTER); // Change here, now the rectangle will be drawn from the center
-    rect(0, 0, this.width, this.height); // Notice width and height are swapped because of the rotation
+    rectMode(CENTER);
+    rect(0, 0, this.width, this.height);
     pop();
   }
 }
@@ -181,6 +213,7 @@ class Obstacle extends RotatedRectangle {
     translate(this.x, this.y);
     rotate(this.angle);
     fill("red");
+    noStroke();
     rectMode(CENTER); // Change here, now the rectangle will be drawn from the center
     rect(0, 0, this.width, this.height); // Width and height order is regular here because of the class specifics
     pop();

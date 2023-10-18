@@ -14,10 +14,10 @@ function listInputsAndOutputs(midiAccess) {
     const input = entry[1];
     console.log(
       `Input port [type:'${input.type}']` +
-        ` id:'${input.id}'` +
-        ` manufacturer:'${input.manufacturer}'` +
-        ` name:'${input.name}'` +
-        ` version:'${input.version}'`
+      ` id:'${input.id}'` +
+      ` manufacturer:'${input.manufacturer}'` +
+      ` name:'${input.name}'` +
+      ` version:'${input.version}'`
     );
   }
 
@@ -29,11 +29,12 @@ function listInputsAndOutputs(midiAccess) {
   }
 }
 function onNote(note, velocity) {
-  addNote(velocity);
+  const esPar = note % 2 !== 1;
+  addNote(velocity, esPar);
 }
-function onPad(pad, velocity) {}
-function onPitchBend(value) {}
-function onModWheel(value) {}
+function onPad(pad, velocity) { }
+function onPitchBend(value) { }
+function onModWheel(value) { }
 
 function parseMidiMessage(message) {
   return {
